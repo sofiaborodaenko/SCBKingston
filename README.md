@@ -4,7 +4,7 @@ A custom-designed website developed for the Society of Conservation Biology (SCB
 
 [![Live Website](https://img.shields.io/badge/demo-live-brightgreen)](https://scbkingston.ca/)
 
-![Screenshot of the project](./assets/screenshot.png)
+![demo video](./assets/SCBKingstonDemo.gif)
 
 ---
 
