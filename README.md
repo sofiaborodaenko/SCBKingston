@@ -48,4 +48,4 @@ My favourite part of the project was the complete creative process, from the ini
 
 **Sofia Borodaenko**
 
-Portfolio • LinkedIn • GitHub
+Portfolio • [LinkedIn](https://www.linkedin.com/in/sofia-borodaenko/) • [GitHub](https://github.com/sofiaborodaenko)
