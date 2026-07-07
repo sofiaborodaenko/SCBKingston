@@ -6,6 +6,8 @@ A custom-designed website developed for the Society of Conservation Biology (SCB
 
 ![demo video](./assets/SCBKingstonDemo.gif)
 
+![Figma Design](./assets/scbfigma.png)
+
 ---
 
 ## Overview
